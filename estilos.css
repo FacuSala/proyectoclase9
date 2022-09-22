@@ -7,4 +7,10 @@
 
 .menuprin{
     display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.menuprin li{
+    text-align: center;
 }
