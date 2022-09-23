@@ -11,6 +11,14 @@
     margin: 2rem;
 }
 
-.menuprin li{
+.menuprin div {
+    padding: 0.5rem 1rem;
+}
+
+.piedepag{
+    background-color: violet;
+    display: inline-block;
     text-align: center;
+    width: 100%;
+    padding: 1rem;
 }
